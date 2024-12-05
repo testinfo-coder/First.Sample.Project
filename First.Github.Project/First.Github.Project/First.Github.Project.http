@@ -1,0 +1,6 @@
+@First.Github.Project_HostAddress = http://localhost:5104
+
+GET {{First.Github.Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
